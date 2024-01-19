@@ -1,6 +1,5 @@
 # ArduinoQueueLibrary
 
-Certainly! Here's an example of how you could structure the Overview and Usage sections for the documentation of your Arduino Queue Library:
 
 ### Overview
 The QueueLibraryForArduino is a user-friendly, efficient library designed for Arduino projects requiring queue data structure implementation. It offers a straightforward approach to managing data in a first-in-first-out (FIFO) manner. This library is particularly useful in scenarios where you need to store and retrieve data sequentially, such as in sensor data buffering, task scheduling, or in any application where data must be processed in the order it was received.
