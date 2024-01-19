@@ -11,8 +11,8 @@ To use the QueueLibraryForArduino in your project, follow these steps:
 
 2. **Initialization**: Create an instance of the queue. You can specify the data type and the maximum size of the queue. 
    ```cpp
-   #include <QueueLibraryForArduino.h>
-   Queue<int> myQueue(10); // Create a queue of integers with a maximum size of 10
+    #include <QueueLibrary.h>
+   QueueLibrary myQueue(10); // Create a queue of integers with a maximum size of 10
    ```
 
 3. **Enqueueing Data**: Add items to the queue using the `enqueue` method.
